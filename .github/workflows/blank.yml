@@ -5,6 +5,6 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: good morning
-        run: echo"Hai"
+        run: echo "Hai"
       - name: good evening
-        run: echo"Hello"
+        run: echo "Hello"
